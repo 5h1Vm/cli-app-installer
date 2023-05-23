@@ -57,5 +57,7 @@ FOR %%A in (%softwareNames%) do (
     echo;
     )
 )
+    REM Updating && Upgrading
+    echo choco outdated  | choco upgrade all -y
 
 pause
