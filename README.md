@@ -7,7 +7,7 @@ I always have to install a specific set of softwares everytime on a new machine.
 Tried using Ninite but that also has limited options. <br>
 Also I wanted to advance in Shell Scripting. <br>
 
-## Windows.bat
+## [Windows.bat](https://github.com/5h1Vm/cli-app-installer/blob/main/Windows.bat)
 
 Run this as Administrator <br>
 Checks for Chocolatey and Installs it (if required) <br>
