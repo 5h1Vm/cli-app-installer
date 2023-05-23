@@ -3,9 +3,9 @@ Not so Universal atm...
  - Windows ✅
 
 ## Solving a probelm...?
-I always have to install a specific set of softwares everytime on a new machine. <br>
+Tired of manually installing applications and dependencies everytime I use any new machine 🥲 <br>
 Tried using Ninite but that also has limited options. <br>
-Also I wanted to advance in Shell Scripting. <br>
+I also wanted to work on my shell scripting skills. <br>
 
 ## [Windows.bat](https://github.com/5h1Vm/cli-app-installer/blob/main/Windows.bat)
 
