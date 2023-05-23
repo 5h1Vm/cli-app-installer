@@ -1,7 +1,19 @@
-# CLI-APPLICATION-INSTALLER
+#Universal Application Installer
+Trying to make it Universal 😅
+ - Windows ✅
 
-The CLI app installer is a custom command-line tool designed to simplify the installation of applications and utilities. It leverages the power of Chocolatey, a popular package manager for Windows, to manage the installation process. 
+### Solving a probelm...?
+I always have to install a specific set of softwares everytime on a new machine.
+Tried using Ninite but that also has limited options.
+Also I wanted to advance in Shell Scripting.
 
-With this app installer, you can specify the software package or repository name as input and the tool then uses Chocolatey to fetch the necessary package information, download the required files, and handle the installation automatically. It can be easily integrated into scripts or used interactively to install multiple applications quickly. 
+### Windows.bat
 
-Overall, the CLI app installer enhances productivity and efficiency by automating the installation of software, making it a valuable tool for system administrators, developers, or any user who frequently installs applications and utilities.
+Run this as Administrator and it will
+Check for Chocolatey and Install it (if required)
+
+Has two options 
+  - Using a Txt File full of Pkg names
+  - Typing the Pkg names in the instance 
+
+Also Updates Oudated Pkgs
