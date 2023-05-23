@@ -4,7 +4,7 @@ Not so Universal atm...
 
 ## Solving a probelm...?
 Tired of manually installing applications and dependencies everytime I use any new machine 🥲 <br>
-Tried using Ninite but that also has limited options. <br>
+Also tried Ninite, limited options <br>
 I also wanted to work on my shell scripting skills. <br>
 
 ## [Windows.bat](https://github.com/5h1Vm/cli-app-installer/blob/main/Windows.bat)
