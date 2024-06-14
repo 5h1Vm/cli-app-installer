@@ -2,9 +2,9 @@
 Not so Universal atm...
  - Windows ✅
 
-## Solving a probelm...?
+## Solving a problem...maybe?
 Was tired of manually installing applications and dependencies everytime I use any new machine 🥲 <br>
-yed I have tried Ninite and others.. but wasn't satisfied.. <br>
+yes I have tried Ninite and others.. but wasn't satisfied.. <br>
 And... I wanted to advance in Win shell scripting. <br>
 
 ## [Windows.bat](https://github.com/5h1Vm/cli-app-installer/blob/main/Windows.bat)
